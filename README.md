@@ -6,4 +6,5 @@ Create a project for a hotel management system which deals with the problem of h
 5. Check-Out Room
 6. Guest Summary Report
 7. Exit
+
 I have made this project using C++ language.
