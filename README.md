@@ -1,4 +1,4 @@
-Created a project for a hotel management system to deals with the problems of managing a hotel service like :
+Created a project for a hotel management system to deal with the problems of managing a hotel service like :
 1. Manage Rooms
 2. Check-In Room
 3. Available Rooms
